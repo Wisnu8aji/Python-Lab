@@ -26,6 +26,7 @@ from Python fundamentals to advanced LLM fine-tuning and RAG applications.
 ### 📋 Full Curriculum Overview
 
 | # | Course | Duration | Status |
+|---|---|---|---|
 | 1 | Introduction to Artificial Intelligence (AI) | 13 hours | ✅ Complete |
 | 2 | Generative AI: Introduction and Applications | 8 hours | ✅ Complete |
 | 3 | Generative AI: Prompt Engineering Basics | 9 hours | ✅ Complete |
