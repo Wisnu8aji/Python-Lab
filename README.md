@@ -4,7 +4,7 @@
 > Every folder in this repo represents a real learning session.
 > Every commit is proof of progress.
 
-## 👤 About This Repo
+## About This Repo
 
 I'm **Wisnu Setyo Aji**, a Civil Engineering graduate from Semarang, Indonesia,
 currently building my path toward becoming an AI/ML Engineer.
@@ -17,13 +17,13 @@ Python is the foundation of everything I want to build:
 LLM applications, RAG systems, AI evaluation tools, and eventually
 AI solutions for the construction & infrastructure industry.
 
-## 🎓 Current Certification
+## Current Certification
 
 I'm currently enrolled in the **IBM Generative AI Engineering Professional Certificate**
 via **Coursera** a 16-course program covering the full spectrum of modern AI engineering,
 from Python fundamentals to advanced LLM fine-tuning and RAG applications.
 
-### 📋 Full Curriculum Overview
+### Full Curriculum Overview
 
 | # | Course | Duration | Status |
 |---|---|---|---|
@@ -46,7 +46,7 @@ from Python fundamentals to advanced LLM fine-tuning and RAG applications.
 
 **Total: 188 hours of structured AI engineering curriculum**
 
-### 📚 Current Course — Python for Data Science, AI & Development (Course 4 of 16)
+### Current Course — Python for Data Science, AI & Development (Course 4 of 16)
 
 This 24-hour course is structured into 5 modules:
 
@@ -103,7 +103,7 @@ Python-Lab/
 └── README.md
 ```
 
-## 📅 Learning Progress
+## Learning Progress
 
 | Module | Topics Covered | Status |
 |---|---|---|
@@ -115,7 +115,7 @@ Python-Lab/
 | 06 - Flask | Building simple AI web apps | ⏳ Upcoming |
 | 07 - LangChain | RAG, LLM integration, AI agents | ⏳ Upcoming |
 
-## 💡 My Unique Angle
+## My Unique Angle
 
 Most Python learners come from a pure CS or math background.
 I come from **Civil Engineering** which means:
@@ -128,7 +128,7 @@ I come from **Civil Engineering** which means:
 This means my AI projects will eventually focus on a niche most engineers ignore:
 **AI applications for the built environment.**
 
-## 🎯 Goal of This Repository
+## Goal of This Repository
 
 By the time this repo is "complete," I will be able to:
 
@@ -138,7 +138,7 @@ By the time this repo is "complete," I will be able to:
 - [ ] Train and evaluate simple ML models with scikit-learn
 - [ ] Build an AI tool specifically for construction/infrastructure domain
 
-## 📬 Contact
+## Contact
 
 - 📧 Ajiwisnu187@gmail.com
 - 📍 Semarang, Central Java, Indonesia
