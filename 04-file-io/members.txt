@@ -1,0 +1,4 @@
+Name,Status
+Budi Santoso,yes
+Andi Wijaya,yes
+Doni Pratama,yes

@@ -1,0 +1,4 @@
+Name,Status
+Siti Rahayu,no
+Rini Lestari,no
+Maya Sari,no
