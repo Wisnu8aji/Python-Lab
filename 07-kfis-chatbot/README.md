@@ -80,9 +80,10 @@ Fitur Web UI:
 
 ## Catatan
 
-- Model default: `claude-opus-4-7`. Ubah konstanta `MODEL` di kedua file
-  untuk memakai Sonnet/Haiku.
-- `max_tokens` default 4096 — naikkan jika laporan terpotong.
+- Model dan token limit dapat diatur via environment variable:
+  - `KFIS_MODEL` (default: `claude-sonnet-4-6`)
+  - `KFIS_MAX_TOKENS` (default: `4096`)
+- Pakai Opus untuk audit kompleks, Haiku untuk tanya-jawab ringan.
 - Riwayat percakapan dikirim utuh setiap giliran (belum ada
   trimming/summarization) — sesi sangat panjang akan boros token.
 

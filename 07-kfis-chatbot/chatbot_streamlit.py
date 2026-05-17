@@ -15,8 +15,8 @@ from anthropic import Anthropic
 
 from system_prompt import SYSTEM_PROMPT, GREETING_MESSAGE
 
-MODEL = "claude-opus-4-7"
-MAX_TOKENS = 4096
+MODEL = os.environ.get("KFIS_MODEL", "claude-sonnet-4-6")
+MAX_TOKENS = int(os.environ.get("KFIS_MAX_TOKENS", "4096"))
 
 
 def get_client() -> Anthropic | None:
